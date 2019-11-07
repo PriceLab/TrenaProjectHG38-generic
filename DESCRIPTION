@@ -1,0 +1,12 @@
+Package: TrenaProjectHG38.generic
+Title: TrenaProjectHG38.generic
+Date: 2019-09-04
+Version: 1.0.2
+Author: pshannon@systemsbiology.org
+Description:  utilities and general data access for HG38 TrenaProjects, no tissue specificity included
+Imports: methods
+Depends: R (>= 3.5.0), TrenaProjectHG38(>= 1.0.2)
+License: Apache 2.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
